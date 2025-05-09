@@ -2,4 +2,4 @@
 This is my first repo
 <b>
 <br>
-Author: Abdullah Iqbal
+Author: Abdullah Mohammad Iqbal
